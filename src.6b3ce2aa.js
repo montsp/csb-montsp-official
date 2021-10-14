@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"H99C":[function(require,module,exports) {
 "use strict";require("./styles.css"),document.getElementById("app").innerHTML='\n<h1>こんにちは Hello!</h1>\n<div>\n<p>I\'m montsp. 私はmontspです。</p>\n<p>I\'m Japanese日本人です。</p>\n<p>Click here for the web.</p>\n<p><a href="https://scratch.mit.edu/users/montowakami/">Scratch</a></p>\n<p><a href="https://stackblitz.com/@montsp">StackBlitz</a></p>\n<p><a href="https://codesandbox.io/u/montsp">Codesandbox</a></p>\n</div>\n';
 },{"./styles.css":"D9Nj"}]},{},["H99C"], null)
-//# sourceMappingURL=/csb-26kdb/src.e6369cd1.js.map
+//# sourceMappingURL=/csb-26kdb/src.6b3ce2aa.js.map
